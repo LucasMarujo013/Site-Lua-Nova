@@ -1,0 +1,57 @@
+body{
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color: blue;
+    margin: 0;
+    background-color: rgb(22, 1, 44);
+}
+
+img{
+    width: 150px;
+    height: auto;
+}
+
+.container{
+    text-align: center;
+}
+
+header{
+    background-color: rgb(22, 1, 44);
+}
+
+section{
+    margin: 40px;
+}
+
+h1{
+    font-size: 61px;
+    color: rgb(10, 241, 68);
+    padding: 20px;
+    color: rgb(216, 209, 221);
+    text-align: center;
+}
+
+h2{
+    font-size: 38px;
+    color: rgb(252, 252, 252);
+    text-align: center;
+}
+
+h3{
+    font-size: 21px;
+    color: white;
+}
+
+p{
+    font-size: 17px;
+    color: white;
+}
+
+li{
+    color: white;
+}
+
+
+
